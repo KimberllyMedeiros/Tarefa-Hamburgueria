@@ -38,6 +38,7 @@ body, html{
 }
 .caixapadrao{
     text-align:center;
-    
+    border: #ddd;
+    display: flex;
 
 }
