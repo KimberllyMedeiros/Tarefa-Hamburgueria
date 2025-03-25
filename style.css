@@ -13,22 +13,29 @@ body, html{
     display: flex;
     flex-direction: column;
     overflow-x: hidden;
+    background-color: #efb365;
 
 }
 .grill{
-    background-color: chocolate;
+    background-color: #000000;
     font-size:xx-large;
     width: 100%;
     text-align: center;
+    font-weight: bold;
+    color: chocolate;
 }
 .caixa1{
     width: 100%;
-    background-color:chocolate;
+    background-color: chocolate;
     text-align: center;
     padding: 8px 0;
-    
 }
 .cardapio{
-    background-color: black;
-    color: chocolate;
+    text-align: center;
+    width: 100%;
+    font-size: x-large;
+    font-weight: bold;
+}
+.caixapadrao{width: 10px;
+
 }
