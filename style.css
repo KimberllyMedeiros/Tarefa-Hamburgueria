@@ -38,7 +38,13 @@ body, html{
 }
 .caixapadrao{
     text-align:center;
-    border: #ddd;
+    border:black solid 2px ;
+    width: 200px;
     display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+
 
 }
