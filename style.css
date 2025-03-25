@@ -36,6 +36,9 @@ body, html{
     font-size: x-large;
     font-weight: bold;
 }
-.caixapadrao{width: 10px;
+.caixapadrao{
+    width: 10px;
+    text-align:center;
+    
 
 }
